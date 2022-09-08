@@ -1,7 +1,7 @@
 public class ShopM
 {
     private string ShopName;
-    private double Num;
+    private string Num;
     private string OwnerName;
     private double Value;
     
@@ -10,7 +10,7 @@ public class ShopM
         Console.Write("Please input Name: ");
         this.ShopName = Console.ReadLine();
         Console.Write("Please input Number: ");
-        this.Num = double.Parse(Console.ReadLine());
+        this.Num = Console.ReadLine();
         Console.Write("Please input Owner Name: ");
         this.OwnerName = Console.ReadLine();
         Console.Write("Please input Registered Value: ");

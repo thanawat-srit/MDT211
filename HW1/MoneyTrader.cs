@@ -1,5 +1,5 @@
 public class MoneyTrader{
-    public double Money;
+    private double Money;
     public void IfMoneyPassToPrint(){
         Console.Write("Please input money: ");
         this.Money = double.Parse(Console.ReadLine());
