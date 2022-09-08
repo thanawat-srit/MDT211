@@ -1,0 +1,15 @@
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.csproj.AssemblyReference.cache
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+C:\D instance\github_wayport\HW1\bin\Debug\net6.0\HW1.exe
+C:\D instance\github_wayport\HW1\bin\Debug\net6.0\HW1.deps.json
+C:\D instance\github_wayport\HW1\bin\Debug\net6.0\HW1.runtimeconfig.json
+C:\D instance\github_wayport\HW1\bin\Debug\net6.0\HW1.dll
+C:\D instance\github_wayport\HW1\bin\Debug\net6.0\HW1.pdb
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.dll
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\refint\HW1.dll
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.pdb
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
+C:\D instance\github_wayport\HW1\obj\Debug\net6.0\ref\HW1.dll
